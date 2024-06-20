@@ -1,19 +1,16 @@
 <h1 align="center">Hi 👋, I'm Saqif Mohammed</h1>
 <h3 align="center">A passionate data analyst from bangalore, india</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=geekif&label=Profile%20views&color=0e75b6&style=flat" alt="geekif" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=geekif" alt="geekif" /></a> </p>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=saqifmohammed&label=Profile%20views&color=0e75b6&style=flat" alt="saqifmohammed" /> </p>
 - 🔭 I’m currently working on **Netflix Dataset**
 
 - 🌱 I’m currently learning **Pandas, Matplotlib, Seaborn, SQL**
 
 - 📝 I regularly write articles on [saqifmohammed.medium.com](saqifmohammed.medium.com)
 
-- 💬 Ask me about **Excel, Python, Tableau, PowerBI**
+- 💬 Ask me about **Excel, Python, Tableau, PowerBI, **
 
-- 📫 How to reach me **saqif.mohammed@gmail.com**
+- 📫 Reach out to me @ **saqif.mohammed@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
