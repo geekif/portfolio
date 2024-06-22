@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [saqifmohammed.medium.com](saqifmohammed.medium.com)
 
-- 💬 Ask me about **Excel, Python, Tableau, PowerBI, **
+- 💬 Ask me about **Excel, Python, Tableau, PowerBI, SQL**
 
 - 📫 Reach out to me @ **saqif.mohammed@gmail.com**
 
