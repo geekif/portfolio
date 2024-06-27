@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Saqif Mohammed</h1>
-<h3 align="center">A passionate data analyst from bangalore, india</h3>
+<h3 align="center">A passionate business analyst from bangalore, india</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saqifmohammed&label=Profile%20views&color=0e75b6&style=flat" alt="saqifmohammed" /> </p>
 
 - 🔭 I’m currently working on **Random Projects**
 
-- 🌱 I’m currently learning **Pandas, Matplotlib, Seaborn, SQL**
+- 🌱 I’m currently learning **Seaborn, SQL, R**
 
 - 📝 I regularly write articles on [saqifmohammed.medium.com](saqifmohammed.medium.com)
 
